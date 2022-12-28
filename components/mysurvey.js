@@ -60,7 +60,7 @@ const surveyJson = {
 
 
 
-export default function mysurvey() {
+export default function Mysurvey() {
 
     const [data,setData]=useState({
         satisfaction:"",
